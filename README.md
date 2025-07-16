@@ -3,11 +3,11 @@
 
 This project aims to predict customer churn — whether a customer will leave a service or not — using machine learning techniques. The dataset contains customer behavior, service usage, and contract details. The goal is to build a predictive model to help businesses take preventive actions to retain customers.
 
-### 📂 About the Dataset
+### About the Dataset
 
 This dataset contains information about bank customers and whether they have churned (i.e., left the bank) or not. The data is sourced from a U.S. bank and includes various customer attributes like credit score, age, balance, tenure, etc.
 
-### 🧾 Dataset Features:
+###  Dataset Features:
 
 RowNumber – Index of the row in the dataset
 
@@ -37,7 +37,7 @@ EstimatedSalary – Customer’s estimated salary
 
 Exited – Target variable (1 = Customer churned, 0 = Customer stayed)
 
-### 🧠 Target:
+###  Target:
 
 The goal is to predict the Exited column — whether a customer will leave the bank (churn) or stay.
 
